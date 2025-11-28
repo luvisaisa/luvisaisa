@@ -4,7 +4,8 @@
 <img src="./assets/luma.gif" alt="Celestial Banner" width="100%"/>
 
 <!-- Name and Title with typing animation -->
-# hi, i'm isa ≽^•⩊•^≼ ✧
+# hi, i'm isa 
+≽^•⩊•^≼ ✧
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F5D5E0&center=true&vCenter=true&width=600&lines=building+systems+that+make+data+usable;data+pipelines+%7C+automation+%7C+research;turning+unstructured+chaos+into+clarity)](https://git.io/typing-svg)
 
@@ -40,7 +41,7 @@
 
 </div>
 
-## 💼 about me
+## about me
 
 i build systems that turn unstructured data into something usable.  
 right now i'm a data-focused research assistant working on schema-agnostic pipelines, automation workflows, and tools that help teams understand their information more clearly.
@@ -51,7 +52,7 @@ right now i'm a data-focused research assistant working on schema-agnostic pipel
 
 </div>
 
-## 💻 what i'm working on
+## what i'm working on
 
 <table>
 <tr>
@@ -120,7 +121,7 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## 🔬 technical interests
+## technical interests
 
 - content-aware parsing and transformation  
 - relational database design (postgres / supabase)  
@@ -135,7 +136,7 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## 📚 learning and improving
+## learning and improving
 
 - larger-scale python structure & modularization  
 - internal tooling + workflow automation  
@@ -148,7 +149,7 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## 🧪 labs — archived concepts
+## labs — archived concepts
 
 <details>
 <summary><b>prototypes i built to explore systems, mechanics, and cross-disciplinary design</b></summary>
@@ -173,7 +174,7 @@ macro-pad concept focused on workflow design and tactile–digital interaction.
 
 </div>
 
-## 🌙 outside of work
+## outside of work
 
 outside of work, i read, study, practice chess, explore tarot, and play video games  
 (current favorites: fortnite, super mario galaxy, and simpsons hit & run).
@@ -184,7 +185,7 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 </div>
 
-## 📊 github stats
+## github stats
 
 <div align="center">
 
