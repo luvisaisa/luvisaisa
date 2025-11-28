@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Name and Title with typing animation -->
-# hi, i'm isa ✧
+# isa lucia schlichting ✧ data engineer
 ≽^•⩊•^≼
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F5D5E0&center=true&vCenter=true&width=600&lines=building+systems+that+make+data+usable;data+pipelines+%7C+automation+%7C+research;turning+unstructured+chaos+into+clarity)](https://git.io/typing-svg)
