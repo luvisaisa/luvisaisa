@@ -1,13 +1,12 @@
 <div align="center">
 
-<!-- Header Banner with luma.gif -->
-<img src="./assets/luma.gif" alt="Celestial Banner" width="100%"/>
-
 <!-- Name and Title with typing animation -->
-# hi, i'm isa 
-≽^•⩊•^≼ ✧
+# hi, i'm isa ≽^•⩊•^≼ ✧
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F5D5E0&center=true&vCenter=true&width=600&lines=building+systems+that+make+data+usable;data+pipelines+%7C+automation+%7C+research;turning+unstructured+chaos+into+clarity)](https://git.io/typing-svg)
+
+<!-- Header Banner with luma.gif -->
+<img src="https://raw.githubusercontent.com/luvisaisa/luvisaisa/master/assets/luma.gif" alt="Celestial Banner" width="600"/>
 
 <!-- Social Badges -->
 <p>
@@ -26,7 +25,7 @@
 </p>
 
 <!-- Email -->
-📧 **isa.lucia.sch@outlook.com**
+**isa.lucia.sch@outlook.com**
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=luvisaisa&color=7B337E&style=flat-square&label=profile+views" alt="Profile Views"/>
@@ -190,10 +189,10 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 <div align="center">
 
 <!-- Language Stats Card with moon palette -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvisaisa&layout=compact&bg_color=420D4B&title_color=F5D5E0&text_color=6667AB&icon_color=7B337E&border_color=7B337E&hide_border=false" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvisaisa&layout=compact&bg_color=420D4B&title_color=F5D5E0&text_color=6667AB&icon_color=7B337E&border_color=7B337E&hide_border=false&cache_seconds=1800" alt="Top Languages" width="400"/>
 
 <!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luvisaisa&theme=radical&background=420D4B&ring=F5D5E0&fire=F5D5E0&currStreakLabel=F5D5E0&sideLabels=F5D5E0&currStreakNum=6667AB&sideNums=6667AB&dates=6667AB&border=7B337E" alt="GitHub Streak" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luvisaisa&theme=radical&background=420D4B&ring=F5D5E0&fire=F5D5E0&currStreakLabel=F5D5E0&sideLabels=F5D5E0&currStreakNum=6667AB&sideNums=6667AB&dates=6667AB&border=7B337E&cache_seconds=1800" alt="GitHub Streak" width="400"/>
 
 </div>
 
@@ -203,16 +202,18 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 </div>
 
+## links
+
 <div align="center">
 
-| links ≽^•⩊•^≼  |
-|:--------:|
-**portfolio** — *coming soon* |
-**resume** — *to be added* |
-[**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
-[**twitter**](https://x.com/404bloom) |
-[**goodreads**](https://www.goodreads.com/user/show/195426714) |
-[**chess.com**](https://www.chess.com/member/isaluvisa) |
+| platform | link |
+|:--------:|:-----|
+| portfolio | **portfolio** — *coming soon* |
+| linkedin | [**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
+| twitter | [**twitter**](https://x.com/404bloom) |
+| goodreads | [**goodreads**](https://www.goodreads.com/user/show/195426714) |
+| chess.com | [**chess.com**](https://www.chess.com/member/isaluvisa) |
+| resume | **resume** — *to be added* |
 
 </div>
 
@@ -222,17 +223,17 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 </div>
 
-## 💌 let's connect
+## let's connect
 
 open to interesting projects and collaboration
 
-📧 **isa.lucia.sch@outlook.com**
+**isa.lucia.sch@outlook.com**
 
 <div align="center">
 
 ---
 
-<sub>✮ thanks for reading ! ˚｡𖦹 ⋆｡°✩</sub>
+<sub>✮ built with lunar aesthetics ⋆ dark mode optimized ˚｡𖦹 ⋆｡°✩</sub>
 
 </div>
 
