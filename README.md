@@ -25,7 +25,7 @@
 </p>
 
 <!-- Email -->
-📧 **isa.lucia.sch@outlook.com**
+**isa.lucia.sch@outlook.com**
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=luvisaisa&color=7B337E&style=flat-square&label=profile+views" alt="Profile Views"/>
@@ -40,7 +40,7 @@
 
 </div>
 
-## 💼 about me
+## about me
 
 i build systems that turn unstructured data into something usable.  
 right now i'm a data-focused research assistant working on schema-agnostic pipelines, automation workflows, and tools that help teams understand their information more clearly.
@@ -51,7 +51,7 @@ right now i'm a data-focused research assistant working on schema-agnostic pipel
 
 </div>
 
-## 💻 what i'm working on
+## what i'm working on
 
 <table>
 <tr>
@@ -86,7 +86,7 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## 🛠️ tech stack
+## tech stack
 
 <!-- Core Technologies -->
 <div align="center">
@@ -120,7 +120,7 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## 🔬 technical interests
+## technical interests
 
 - content-aware parsing and transformation  
 - relational database design (postgres / supabase)  
@@ -135,7 +135,7 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## 📚 learning and improving
+## learning and improving
 
 - larger-scale python structure & modularization  
 - internal tooling + workflow automation  
@@ -148,7 +148,7 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## 🧪 labs — archived concepts
+## labs — archived concepts
 
 <details>
 <summary><b>prototypes i built to explore systems, mechanics, and cross-disciplinary design</b></summary>
@@ -173,7 +173,7 @@ macro-pad concept focused on workflow design and tactile–digital interaction.
 
 </div>
 
-## 🌙 outside of work
+## outside of work
 
 outside of work, i read, study, practice chess, explore tarot, and play video games  
 (current favorites: fortnite, super mario galaxy, and simpsons hit & run).
@@ -184,7 +184,7 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 </div>
 
-## 📊 github stats
+## github stats
 
 <div align="center">
 
@@ -202,18 +202,18 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 </div>
 
-## 🔗 links
+## links
 
 <div align="center">
 
 | platform | link |
 |:--------:|:-----|
-| 💼 | **portfolio** — *coming soon* |
-| 👔 | [**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
-| 🐦 | [**twitter**](https://x.com/404bloom) |
-| 📖 | [**goodreads**](https://www.goodreads.com/user/show/195426714) |
-| ♟️ | [**chess.com**](https://www.chess.com/member/isaluvisa) |
-| 📄 | **resume** — *to be added* |
+| portfolio | **portfolio** — *coming soon* |
+| linkedin | [**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
+| twitter | [**twitter**](https://x.com/404bloom) |
+| goodreads | [**goodreads**](https://www.goodreads.com/user/show/195426714) |
+| chess.com | [**chess.com**](https://www.chess.com/member/isaluvisa) |
+| resume | **resume** — *to be added* |
 
 </div>
 
@@ -223,11 +223,11 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 </div>
 
-## 💌 let's connect
+## let's connect
 
 open to interesting projects and collaboration
 
-📧 **isa.lucia.sch@outlook.com**
+**isa.lucia.sch@outlook.com**
 
 <div align="center">
 
