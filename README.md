@@ -207,8 +207,8 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 <div align="center">
 
-| platform | link |
-|:--------:|:-----|
+| platform |
+|:--------:|
 **portfolio** — *coming soon* |
 **resume** — *to be added* |
 [**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
