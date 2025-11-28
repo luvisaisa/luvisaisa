@@ -236,7 +236,7 @@ open to interesting projects and collaboration
 
 ---
 
-<sub>✮ built with lunar aesthetics ⋆ dark mode optimized ˚｡𖦹 ⋆｡°✩</sub>
+<sub>✮ thx for reading ! ˚｡𖦹 ⋆｡°✩</sub>
 
 </div>
 
