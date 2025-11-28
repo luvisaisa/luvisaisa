@@ -203,11 +203,9 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 </div>
 
-## 🔗 links
-
 <div align="center">
 
-| platform |
+| links ≽^•⩊•^≼  |
 |:--------:|
 **portfolio** — *coming soon* |
 **resume** — *to be added* |
