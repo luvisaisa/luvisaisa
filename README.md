@@ -189,10 +189,10 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 <div align="center">
 
 <!-- Language Stats Card with moon palette -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvisaisa&layout=compact&bg_color=420D4B&title_color=F5D5E0&text_color=6667AB&icon_color=7B337E&border_color=7B337E&hide_border=false" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvisaisa&layout=compact&bg_color=420D4B&title_color=F5D5E0&text_color=6667AB&icon_color=7B337E&border_color=7B337E&hide_border=false&cache_seconds=1800" alt="Top Languages" width="400"/>
 
 <!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luvisaisa&theme=radical&background=420D4B&ring=F5D5E0&fire=F5D5E0&currStreakLabel=F5D5E0&sideLabels=F5D5E0&currStreakNum=6667AB&sideNums=6667AB&dates=6667AB&border=7B337E" alt="GitHub Streak" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luvisaisa&theme=radical&background=420D4B&ring=F5D5E0&fire=F5D5E0&currStreakLabel=F5D5E0&sideLabels=F5D5E0&currStreakNum=6667AB&sideNums=6667AB&dates=6667AB&border=7B337E&cache_seconds=1800" alt="GitHub Streak" width="400"/>
 
 </div>
 
