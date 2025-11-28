@@ -87,7 +87,7 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## 🛠️ tech stack
+## tech stack
 
 <!-- Core Technologies -->
 <div align="center">
