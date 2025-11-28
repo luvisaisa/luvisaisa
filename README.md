@@ -209,12 +209,12 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 | platform | link |
 |:--------:|:-----|
-| 💼 | **portfolio** — *coming soon* |
-| 👔 | [**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
-| 🐦 | [**twitter**](https://x.com/404bloom) |
-| 📖 | [**goodreads**](https://www.goodreads.com/user/show/195426714) |
-| ♟️ | [**chess.com**](https://www.chess.com/member/isaluvisa) |
-| 📄 | **resume** — *to be added* |
+**portfolio** — *coming soon* |
+**resume** — *to be added* |
+[**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
+[**twitter**](https://x.com/404bloom) |
+[**goodreads**](https://www.goodreads.com/user/show/195426714) |
+[**chess.com**](https://www.chess.com/member/isaluvisa) |
 
 </div>
 
@@ -234,7 +234,7 @@ open to interesting projects and collaboration
 
 ---
 
-<sub>✮ built with lunar aesthetics ⋆ dark mode optimized ˚｡𖦹 ⋆｡°✩</sub>
+<sub>✮ thanks for reading ! ˚｡𖦹 ⋆｡°✩</sub>
 
 </div>
 
