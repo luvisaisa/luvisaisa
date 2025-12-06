@@ -97,20 +97,20 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 <div align="center">
 
 ### core languages & frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://docs.python.org/3/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://fastapi.tiangolo.com/)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://restfulapi.net/)
 
 ### data & databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://www.postgresql.org/docs/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://docs.sqlalchemy.org/)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://pandas.pydata.org/docs/)
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://docs.pydantic.dev/)
 
 ### infrastructure & tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.docker.com/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.github.com/en/actions)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.pytest.org/)
 
 ### domain expertise
 ![ETL](https://img.shields.io/badge/ETL%2FData_Engineering-FF6F00?style=for-the-badge&logoColor=F5D5E0&labelColor=210635&color=210635)
@@ -193,11 +193,11 @@ outside of work, i read, study, practice chess, explore tarot, and play video ga
 
 <div align="center">
 
-<!-- Language Stats Card with moon palette -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvisaisa&layout=compact&bg_color=420D4B&title_color=F5D5E0&text_color=6667AB&icon_color=7B337E&border_color=7B337E&hide_border=false&cache_seconds=1800" alt="Top Languages" width="400"/>
-
 <!-- Contribution Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luvisaisa&theme=radical&background=420D4B&ring=F5D5E0&fire=F5D5E0&currStreakLabel=F5D5E0&sideLabels=F5D5E0&currStreakNum=6667AB&sideNums=6667AB&dates=6667AB&border=7B337E&cache_seconds=1800" alt="GitHub Streak" width="400"/>
+<img src="https://streak-stats.demolab.com/?user=luvisaisa&background=420D4B&ring=F5D5E0&fire=F5D5E0&currStreakLabel=F5D5E0&sideLabels=F5D5E0&currStreakNum=6667AB&sideNums=6667AB&dates=6667AB&border=7B337E" alt="GitHub Streak" width="500"/>
+
+<!-- Language Stats Card with moon palette -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luvisaisa&layout=compact&bg_color=420D4B&title_color=F5D5E0&text_color=6667AB&icon_color=7B337E&border_color=7B337E&hide_border=false)](https://github.com/luvisaisa)
 
 </div>
 
