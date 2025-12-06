@@ -9,6 +9,8 @@
 <!-- Header Banner with luma.gif -->
 <img src="https://raw.githubusercontent.com/luvisaisa/luvisaisa/main/assets/luma.gif" alt="Celestial Banner" width="500"/>
 
+<br/>
+
 ✮ ⋆ ˚｡𖦹 ⋆｡°✩
 
 <!-- Social Badges -->
