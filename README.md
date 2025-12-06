@@ -52,11 +52,19 @@ right now i'm a data-focused research assistant working on schema-agnostic pipel
 
 <div align="center">
 
+✮ ⋆ ˚｡𖦹 ⋆｡°✩
+
+</div>
+
+## github stats
+
+<div align="center">
+
 <!-- Contribution Streak -->
 <img src="https://streak-stats.demolab.com/?user=luvisaisa&background=420D4B&ring=F5D5E0&fire=F5D5E0&currStreakLabel=F5D5E0&sideLabels=F5D5E0&currStreakNum=6667AB&sideNums=6667AB&dates=6667AB&border=7B337E" alt="GitHub Streak" width="500"/>
 
-<!-- Language Stats Card with moon palette -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luvisaisa&layout=compact&bg_color=420D4B&title_color=F5D5E0&text_color=6667AB&icon_color=7B337E&border_color=7B337E&hide_border=false&langs_count=8" alt="Top Languages" width="400"/>
+<!-- Contributions Graph -->
+<img src="https://ghchart.rshah.org/7B337E/luvisaisa" alt="GitHub Contributions" width="600"/>
 
 ✮ ⋆ ˚｡𖦹 ⋆｡°✩
 
