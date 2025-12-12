@@ -61,7 +61,7 @@ right now i'm a data-focused research assistant working on schema-agnostic pipel
 <div align="center">
 
 <!-- Contribution Streak -->
-<img src="https://streak-stats.demolab.com/?user=luvisaisa&background=420D4B&ring=F5D5E0&fire=F5D5E0&currStreakLabel=F5D5E0&sideLabels=F5D5E0&currStreakNum=6667AB&sideNums=6667AB&dates=6667AB&border=7B337E" alt="GitHub Streak" width="500"/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luvisaisa&theme=violet-dark" alt="GitHub Streak" /></a>
 
 <!-- Contributions Graph -->
 <img src="https://ghchart.rshah.org/7B337E/luvisaisa" alt="GitHub Contributions" width="600"/>
