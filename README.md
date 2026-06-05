@@ -1,39 +1,32 @@
 <div align="center">
 
-<!-- Name and Title with typing animation -->
-# isa lucia schlichting ✧ data engineer
+# izzy lucia schlichting ✧ runtime systems engineer
 ≽^•⩊•^≼
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F5D5E0&center=true&vCenter=true&width=600&lines=building+systems+that+make+data+usable;data+pipelines+%7C+automation+%7C+research;turning+unstructured+chaos+into+clarity)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=memory%2C+orchestration%2C+infrastructure;local-first+runtime+systems;powered+by+CHAOS)](https://git.io/typing-svg)
 
-<!-- Header Banner with luma.gif -->
 <img src="https://raw.githubusercontent.com/luvisaisa/luvisaisa/main/assets/luma.gif" alt="Celestial Banner" width="500"/>
 
 <br/>
 
 ✮ ⋆ ˚｡𖦹 ⋆｡°✩
 
-<!-- Social Badges -->
 <p>
+  <a href="https://chaos-dev.ai">
+    <img src="https://img.shields.io/static/v1?label=CHAOS%20AI&message=chaos-dev.ai&style=for-the-badge&logo=googlechrome&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="CHAOS AI"/>
+  </a>
   <a href="https://www.linkedin.com/in/isa-lucia-sch/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=F5D5E0&labelColor=420D4B&color=7B337E" alt="LinkedIn"/>
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=isa-lucia-sch&style=for-the-badge&logo=linkedin&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/404bloom">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="Twitter"/>
+    <img src="https://img.shields.io/static/v1?label=X&message=%40404bloom&style=for-the-badge&logo=x&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="X"/>
   </a>
-  <a href="https://www.chess.com/member/isaluvisa">
-    <img src="https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=lichess&logoColor=F5D5E0&labelColor=420D4B&color=7B337E" alt="Chess.com"/>
-  </a>
-  <a href="https://www.goodreads.com/user/show/195426714">
-    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="Goodreads"/>
+  <a href="mailto:izzy@chaos-dev.ai">
+    <img src="https://img.shields.io/static/v1?label=Email&message=izzy%40chaos-dev.ai&style=for-the-badge&logo=gmail&logoColor=F5D5E0&labelColor=420D4B&color=6667AB" alt="Email"/>
   </a>
 </p>
 
-<!-- Email -->
-**isa.lucia.sch@outlook.com**
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=luvisaisa&color=7B337E&style=flat-square&label=profile+views" alt="Profile Views"/>
+**Runtime Systems Engineer building AI-native infrastructure with CHAOS.**
 
 </div>
 
@@ -45,10 +38,25 @@
 
 </div>
 
-## about me
+## current work
 
-i build systems that turn unstructured data into something usable.  
-right now i'm a data-focused research assistant working on schema-agnostic pipelines, automation workflows, and tools that help teams understand their information more clearly.
+### CHAOS
+**CHAOS** is my core systems project: AI-native infrastructure for local-first orchestration, context hydration, agent coordination, and disciplined developer workflows.
+
+The public repository is a **showcase of process, architecture direction, and engineering discipline**. The implementation itself remains private.
+
+current work includes:
+
+- building runtime systems for multi-agent coordination
+- designing context-aware infrastructure that reduces repeated prompt overhead
+- developing local-first orchestration patterns for AI-assisted software work
+- treating memory, process, git hygiene, and operational visibility as first-class infrastructure
+- shaping CHAOS as a serious developer platform rather than a thin application layer over model APIs
+
+public surfaces:
+
+- [chaos-dev.ai](https://chaos-dev.ai)
+- [CHAOS public showcase repo](https://github.com/luvisaisa/CHAOS)
 
 <div align="center">
 
@@ -56,48 +64,17 @@ right now i'm a data-focused research assistant working on schema-agnostic pipel
 
 </div>
 
-## github stats
+## focus areas
 
-<div align="center">
-
-<!-- Contribution Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=luvisaisa&theme=modern-lilac)](https://git.io/streak-stats)
-
-<!-- Contributions Graph -->
-<img src="https://ghchart.rshah.org/7B337E/luvisaisa" alt="GitHub Contributions" width="600"/>
-
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
-
-</div>
-
-## what i'm working on
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### **unified parser pipeline**
-a system that ingests multiple file types (xml, csv, json, pdf, etc.) through a single import flow.
-
-**features:**
-- canonical schema mapping
-- keyword extraction
-- automated content classification
-
-</td>
-<td width="50%" valign="top">
-
-### **case identifier + analysis engine**
-supabase-backed workflow that attaches metadata, keywords, and relational context to imported files.
-
-**features:**
-- automatic triggers
-- universal analysis views
-- flexible search across heterogeneous data
-
-</td>
-</tr>
-</table>
+- AI-native infrastructure
+- runtime systems engineering
+- local-first orchestration
+- agent coordination
+- context and memory systems
+- developer tooling
+- backend architecture
+- workflow automation
+- distributed systems engineering
 
 <div align="center">
 
@@ -107,29 +84,27 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 ## tech stack
 
-<!-- Core Technologies -->
 <div align="center">
 
 ### core languages & frameworks
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://docs.python.org/3/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://fastapi.tiangolo.com/)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://restfulapi.net/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://www.typescriptlang.org/)
+[![Typer CLI](https://img.shields.io/badge/Typer_CLI-5B21B6?style=for-the-badge&logo=python&logoColor=F5D5E0&labelColor=420D4B&color=7B337E)](https://typer.tiangolo.com/)
 
-### data & databases
+### data, systems, and infrastructure
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://www.postgresql.org/docs/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://docs.sqlalchemy.org/)
-[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://pandas.pydata.org/docs/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://docs.pydantic.dev/)
+[![SQLite FTS](https://img.shields.io/badge/SQLite_FTS-003B57?style=for-the-badge&logo=sqlite&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://www.sqlite.org/fts5.html)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://docs.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://git-scm.com/doc)
+[![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=for-the-badge&logoColor=F5D5E0&labelColor=420D4B&color=6667AB)](https://modelcontextprotocol.io/)
 
-### infrastructure & tools
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.docker.com/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.github.com/en/actions)
+### workflow and quality
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.pydantic.dev/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.sqlalchemy.org/)
 [![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.pytest.org/)
-
-### domain expertise
-![ETL](https://img.shields.io/badge/ETL%2FData_Engineering-FF6F00?style=for-the-badge&logoColor=F5D5E0&labelColor=210635&color=210635)
-![Medical Imaging](https://img.shields.io/badge/Medical_Imaging-00897B?style=for-the-badge&logoColor=F5D5E0&labelColor=210635&color=210635)
-![Healthcare IT](https://img.shields.io/badge/Healthcare_IT-00695C?style=for-the-badge&logoColor=F5D5E0&labelColor=210635&color=210635)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://docs.github.com/en/actions)
+[![WebSockets](https://img.shields.io/badge/WebSockets-0F766E?style=for-the-badge&logo=socketdotio&logoColor=F5D5E0&labelColor=420D4B&color=420D4B)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 </div>
 
@@ -139,96 +114,19 @@ supabase-backed workflow that attaches metadata, keywords, and relational contex
 
 </div>
 
-## technical interests
-
-- content-aware parsing and transformation  
-- relational database design (postgres / supabase)  
-- building maintainable data pipelines  
-- python architecture & tooling  
-- os-level concepts and constraint-driven environments  
-- simulations, mechanics, and system modeling
-
-<div align="center">
-
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
-
-</div>
-
-## learning and improving
-
-- larger-scale python structure & modularization  
-- internal tooling + workflow automation  
-- database optimization  
-- commit discipline & structured documentation
-
-<div align="center">
-
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
-
-</div>
-
-## labs — archived concepts
-
-<details>
-<summary><b>prototypes i built to explore systems, mechanics, and cross-disciplinary design</b></summary>
-<br>
-
-not active, but reflective of how i think and structure projects.
-
-### **PAWS — ritualized productivity engine**
-stat-based habit system combining automation, symbolic design, and virtual-pet mechanics.
-
-### **Pokémon: Bloodline — narrative systems framework**
-mechanics and worldbuilding study exploring branching consequences and resource loops.
-
-### **Miss Macro — hardware/ux exploration**
-macro-pad concept focused on workflow design and tactile–digital interaction.
-
-</details>
-
-<div align="center">
-
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
-
-</div>
-
-## outside of work
-
-outside of work, i read, study, practice chess, explore tarot, and play video games  
-(current favorites: fortnite, super mario galaxy, and simpsons hit & run).
-
-<div align="center">
-
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
-
-</div>
-
-## links
+## connect
 
 <div align="center">
 
 | platform | link |
 |:--------:|:-----|
-| portfolio | **portfolio** — *coming soon* |
+| website | [**chaos-dev.ai**](https://chaos-dev.ai) |
 | linkedin | [**linkedin**](https://www.linkedin.com/in/isa-lucia-sch/) |
-| twitter | [**twitter**](https://x.com/404bloom) |
-| goodreads | [**goodreads**](https://www.goodreads.com/user/show/195426714) |
-| chess.com | [**chess.com**](https://www.chess.com/member/isaluvisa) |
-| resume | **resume** — *to be added* |
+| x | [**x**](https://x.com/404bloom) |
+| email | [**izzy@chaos-dev.ai**](mailto:izzy@chaos-dev.ai) |
+| resume | [**resume**](./assets/isa-schlichting-resume-runtime-systems-engineer-1page.pdf) |
 
 </div>
-
-<div align="center">
-
-✮ ⋆ ˚｡𖦹 ⋆｡°✩
-
-</div>
-
-## let's connect
-
-open to interesting projects and collaboration
-
-**isa.lucia.sch@outlook.com**
 
 <div align="center">
 
@@ -237,12 +135,3 @@ open to interesting projects and collaboration
 <sub>✮ thx for reading ! ˚｡𖦹 ⋆｡°✩</sub>
 
 </div>
-
-<!-- 
-CUSTOMIZATION NOTES:
-- Update typing animation: edit line 10, modify text after "lines="
-- Change colors: replace hex codes (F5D5E0, 6667AB, 7B337E, 420D4B, 210635)
-- Modify stats: change username parameter in stats URLs (currently: luvisaisa)
-- Update luma.gif path if moved: edit line 3 relative path
-- Social badges: update href URLs to your profiles
--->
